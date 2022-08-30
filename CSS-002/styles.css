@@ -1,0 +1,23 @@
+.c1{
+color: aliceblue;
+background-color: black;
+font-family:serif ;
+font-weight: lighter
+}
+#id2{
+    color: rgb(136, 120, 152);
+    background-color: rgb(171, 171, 171);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+#id1{
+    color: gold;
+    /* background-color: silver; */
+    font-style: oblique;
+    font-weight: 200;
+    font-size: medium;
+}
+.c3{
+    background-color: silver;
+    font-style:normal ;
+}
